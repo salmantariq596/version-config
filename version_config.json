@@ -1,0 +1,5 @@
+{
+    "version": "1.0.1",
+    "update_message": "A new version is available. Please update your app.",
+    "downgrade_message": "Your app version is ahead. Please downgrade to the supported version."
+}
