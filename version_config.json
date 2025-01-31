@@ -1,6 +1,6 @@
 {
-    "version": "1.0.1",
+    "version": "1.2.1",
     "upgrade":true,
-    "update_message": "A new version is available. Please update your app to sync latest changes",
+    "update_message": "A new version is available. Please update your app to sync latest changes of poslite",
     "downgrade_message": "Your app version is ahead. Please downgrade to the supported version."
 }
