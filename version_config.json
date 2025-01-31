@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "upgrade":false,
+    "upgrade":true,
     "update_message": "A new version is available. Please update your app to sync latest changes",
     "downgrade_message": "Your app version is ahead. Please downgrade to the supported version."
 }
