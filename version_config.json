@@ -1,6 +1,10 @@
 {
-    "version": "1.2.2",
-    "upgrade":true,
-    "update_message": "A new version is available. Please update your app to sync latest changes of poslite",
-    "downgrade_message": "Your app version is ahead. Please downgrade to the supported version."
+    "version": "1.2.1",
+    "schema_version": 2024062001,
+    "update_message": "Security updates and performance improvements",
+    "release_notes": [
+        "Fixed security vulnerabilities",
+        "Optimized database queries",
+        "Improved error handling"
+    ]
 }
