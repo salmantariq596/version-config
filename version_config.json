@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "update_message": "Version-control logic udpate, added password view toggle, fixed user profile dropdown bug",
   "update_url": "https://github.com/salmantariq596/version-config/raw/main/system-updates.zip"
 }
